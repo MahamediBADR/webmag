@@ -1,0 +1,85 @@
+{
+    "journal": {
+      "nomJournal": "Cat World News",
+      "phraseAccroche": "Votre source d'informations sur l'univers félin",
+      "texteAppelAction": "Abonnez-vous pour recevoir notre newsletter et rester au courant de tout ce qui concerne les chats !",
+      "articlePrincipal": {
+        "titre": "Les tendances du moment dans le monde des chats : ce que chaque propriétaire devrait savoir",
+        "description": "Découvrez les dernières nouvelles, les conseils de soins et les anecdotes amusantes sur nos amis félins.",
+        "date": "25 Avril 2024",
+        "theme": "Actualités félines",
+        "image":"depositphotos_66176717-stock-illustration-cat-logo.jpg"
+      },
+      "articles": [
+        {
+          "titre": "Les races de chats les plus populaires et leurs caractéristiques distinctives",
+          "date": "20 Avril 2024",
+          "theme": "Races",
+          "image":""
+        },
+        {
+          "titre": "Entretien avec un vétérinaire : les meilleures pratiques pour la santé et le bien-être des chats",
+          "date": "15 Avril 2024",
+          "theme": "Santé",
+          "image":""
+        },
+        {
+          "titre": "Top 10 des accessoires indispensables pour les chats",
+          "date": "5 Avril 2024",
+          "theme": "Accessoires",
+          "image":""
+        },
+        {
+          "titre": "Conseils pour l'éducation et le comportement des chats",
+          "date": "28 Mars 2024",
+          "theme": "Éducation",
+          "image":""
+        },
+        {
+          "titre": "Les chats célèbres d'Internet : leurs histoires et leurs aventures",
+          "date": "20 Mars 2024",
+          "theme": "Célébrités",
+          "image":""
+        }
+      ],
+      "themes": [
+        {
+          "nom": "Races",
+          "description": "Découvrez les différentes races de chats, leurs caractéristiques et leurs personnalités uniques."
+        },
+        {
+          "nom": "Santé",
+          "description": "Conseils de santé et de bien-être pour maintenir votre chat en bonne forme et prévenir les problèmes courants."
+        },
+        {
+          "nom": "Accessoires",
+          "description": "Revues et recommandations des meilleurs accessoires pour rendre la vie de votre chat plus confortable et amusante."
+        },
+        {
+          "nom": "Éducation",
+          "description": "Conseils pratiques pour éduquer votre chat, gérer son comportement et renforcer votre lien avec lui."
+        },
+        {
+          "nom": "Célébrités",
+          "description": "Découvrez les histoires de chats célèbres sur Internet, leurs aventures et leur impact sur la culture populaire."
+        }
+      ],
+      "auteurs": [
+        {
+          "prenom": "Emma",
+          "typeExperience": "Vétérinaire spécialisée en félin",
+          "presentation": "En tant que vétérinaire spécialisée en félin, je partage mes connaissances et mes conseils pour aider les propriétaires de chats à prendre soin de leurs compagnons."
+        },
+        {
+          "prenom": "Thomas",
+          "typeExperience": "Éducateur félin",
+          "presentation": "Avec une expertise en éducation féline, je vous offre des conseils pratiques pour comprendre et gérer le comportement de votre chat."
+        },
+        {
+          "prenom": "Sophie",
+          "typeExperience": "Amoureuse des chats",
+          "presentation": "Passionnée par les chats depuis toujours, je vous emmène dans l'univers fascinant des félins avec des histoires, des conseils et des astuces."
+        }
+      ]
+    }
+  }

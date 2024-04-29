@@ -1,0 +1,93 @@
+
+html, body{
+    font-family: 'Poppins', sans-serif;
+  background: white;
+ }
+
+ ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    padding: 40px;
+    margin: 0;
+ }
+ h1{
+    text-align: center;
+    color:black;
+    padding: 20px;
+ }
+ h3{
+    color: aqua;
+ }
+ a{
+    text-decoration: none;
+    color:black;
+ }
+ h3{
+    text-align: right;
+ }
+ h2{
+    text-align: left;
+ }
+ a:hover{
+    color: red;
+ }
+ section{
+    display: flex;
+    gap: 15PX;
+ }
+ .avatar{
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    border-radius: 100%;
+    border: black solid 1px;
+ }
+  nav{
+    display: flex;
+    gap: 100px;
+    flex-direction: row;
+     background-color: white;
+     width: 100%;
+     justify-content: space-evenly;
+     align-items: center;
+   }
+   .abonner-avatar{
+    display: flex;
+    gap: 10px;
+    flex-direction: row;
+     align-items:center;
+     background-color: white;
+     justify-content: space-evenly
+   }
+   .button-nav-abonner{
+    border-radius: 4px;
+    text-decoration: none;
+    padding: 8px 16px;
+    transition: all .3s ease-in-out;
+ }
+ .button-nav-abonner{
+    background: black;
+    color: white;
+    
+
+ }
+   .img-chat{
+    width: 150px;
+    height: auto;
+   }
+   .img-chat{
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    border-radius: 100%;
+    border: black solid 1px;
+ }
+ .chat{
+    width: 150px;
+    height: auto;
+ 
+   }
+   
