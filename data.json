@@ -15,31 +15,31 @@
           "titre": "Les races de chats les plus populaires et leurs caractéristiques distinctives",
           "date": "20 Avril 2024",
           "theme": "Races",
-          "image":"julir-oger-veterinaire-350b.jpg"
+          "image":"photos/il_570xN.3833006471_fdhi.avif"
         },
         {
           "titre": "Entretien avec un vétérinaire : les meilleures pratiques pour la santé et le bien-être des chats",
           "date": "15 Avril 2024",
           "theme": "Santé",
-          "image":"julir-oger-veterinaire-350b.jpg"
+          "image":"photos/choix-du-veterinaire-pour-son-chat-353e953e3197fae9.jpeg"
         },
         {
           "titre": "Top 10 des accessoires indispensables pour les chats",
           "date": "5 Avril 2024",
           "theme": "Accessoires",
-          "image":""
+          "image":"photos/_light-21194-accessoires-pour-chat-indispensables.jpg"
         },
         {
           "titre": "Conseils pour l'éducation et le comportement des chats",
           "date": "28 Mars 2024",
           "theme": "Éducation",
-          "image":""
-        },
+          "image":"photos/63be8bf07b066c55c304d28f_education-chat (1).webp"
+        },                                               
         {
           "titre": "Les chats célèbres d'Internet : leurs histoires et leurs aventures",
           "date": "20 Mars 2024",
           "theme": "Célébrités",
-          "image":""
+          "image":"photos/shrek2chatpotte.webp"
         }
       ],
       "themes": [
@@ -67,16 +67,19 @@
       "auteurs": [
         {
           "prenom": "Emma",
+          "image": "photos/julir-oger-veterinaire-350b.jpg",
           "typeExperience": "Vétérinaire spécialisée en félin",
           "presentation": "En tant que vétérinaire spécialisée en félin, je partage mes connaissances et mes conseils pour aider les propriétaires de chats à prendre soin de leurs compagnons."
         },
         {
           "prenom": "Thomas",
+          "image": "photos/210210-espace-felin-Eiffel-5-1030x687.jpg",
           "typeExperience": "Éducateur félin",
           "presentation": "Avec une expertise en éducation féline, je vous offre des conseils pratiques pour comprendre et gérer le comportement de votre chat."
         },
         {
           "prenom": "Sophie",
+          "image": "photos/mathilde-kopka-assistante-veterinaire-350b.jpg",
           "typeExperience": "Amoureuse des chats",
           "presentation": "Passionnée par les chats depuis toujours, je vous emmène dans l'univers fascinant des félins avec des histoires, des conseils et des astuces."
         }

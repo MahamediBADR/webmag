@@ -11,8 +11,8 @@ function getData() {
        console.log('Données récupérées du fichier JSON :', data);
        /// ON ECRIT LE CODE ICI ! 
        let themesList = data.journal.themes.map(theme => `<a href="#">${theme.nom}</a>`).join('');
-let dropdownContent = document.querySelector('.dropdown-content');
-dropdownContent.innerHTML = themesList;
+const card = document.querySelector('.dropdown-content');
+card.innerHTML = themesList;
 
     let heroImage = document.querySelector('.hero-header');
     heroImage.src = data.journal.articlePrincipal.image;
@@ -26,9 +26,11 @@ dropdownContent.innerHTML = themesList;
     `;
     
     let autresArticlesSection = document.querySelector('.autres-articles .articles-container');
+
     data.journal.articles.forEach(article => {
       autresArticlesSection.innerHTML += `
         <article class="article">
+        <img class="auteur-img" src="${article.image}">
           <h2>${article.titre}</h2>
           <h3>${article.theme} - ${article.date}</h3>
           <a href="#" class="button-article"> lire l'article</a>
@@ -40,6 +42,7 @@ dropdownContent.innerHTML = themesList;
     data.journal.auteurs.forEach(auteur => {
       auteursSection.innerHTML += `
         <article class="auteur">
+        <img class="auteurs-img" src="${auteur.image}">
           <h2>${auteur.prenom}</h2>
           <h3>${auteur.typeExperience}</h3>
           <p>${auteur.presentation}</p>
